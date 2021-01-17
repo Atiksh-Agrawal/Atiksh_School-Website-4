@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+}
+
+.class {
+    width: 100%;
+    margin-top: 50px;
+    border-radius: 200px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.campus_mainDiv {
+    float: left;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+
+}
+
+#Campus_life {
+    align-content: center;
+}
+
+.abc {
+    width: 100%;
+}
+
+#What’s_New {
+    margin-top: 20px;
+}
+
+.new {
+    border-radius: 50px;
+}
+
+.class1 {
+    width: 100%;
+}
